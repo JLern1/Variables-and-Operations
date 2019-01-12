@@ -1,0 +1,7 @@
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\bin\Debug\Variables_And_Operations.exe.config
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\bin\Debug\Variables_And_Operations.exe
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\bin\Debug\Variables_And_Operations.pdb
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\obj\Debug\Variables_And_Operations.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\obj\Debug\Variables_And_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\obj\Debug\Variables_And_Operations.exe
+C:\Users\Jason\source\repos\Variables_And_Operations_Solution\Variables_And_Operations\obj\Debug\Variables_And_Operations.pdb
